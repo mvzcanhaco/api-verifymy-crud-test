@@ -6,6 +6,6 @@ Aplicação desenvolvida com o proposito de testar conhecimentos. Com um proposi
 As atividades, especificações e acompanhamento do projeto é possivel acompanhar através desse Link: [https://trello.com/b/BFL4WdlW/api-verifymy-crud](https://trello.com/b/BFL4WdlW/api-users-crud-verifymy)
 
 
-Projeto Teste em MVC para dar origem ao novo projeto em Clean Arch -> https://github.com/mvzcanhaco/api-users-crud-verifym
+Projeto Teste em MVC para dar origem ao novo projeto em Clean Arch -> https://github.com/mvzcanhaco/api-users-crud-verifymy
 
 
